@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingDesktop", "App\BingDesktop.csproj", "{173D88BD-1E1C-444D-BC4E-ECD3FAE6A93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingDesktop.UnitTests", "App.UnitTests\BingDesktop.UnitTests.csproj", "{D90EA4FD-2488-4B3F-97D2-06ED3848BE14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173D88BD-1E1C-444D-BC4E-ECD3FAE6A93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173D88BD-1E1C-444D-BC4E-ECD3FAE6A93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173D88BD-1E1C-444D-BC4E-ECD3FAE6A93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173D88BD-1E1C-444D-BC4E-ECD3FAE6A93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90EA4FD-2488-4B3F-97D2-06ED3848BE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90EA4FD-2488-4B3F-97D2-06ED3848BE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90EA4FD-2488-4B3F-97D2-06ED3848BE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90EA4FD-2488-4B3F-97D2-06ED3848BE14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CAEB615-7D18-40FA-802C-3697BAB18F75}
+	EndGlobalSection
+EndGlobal
