@@ -1,6 +1,10 @@
-# Bing Desktop
+# Update
 
-Tool for updating desktop wallpaper to latest Bing homepage
+BingWallpaper is now officially available as a replacement for BingDesktop: https://www.microsoft.com/en-us/bing/bing-wallpaper
+
+# ~~Bing Desktop~~
+
+~~Tool for updating desktop wallpaper to latest Bing homepage~~
 
 # Usage
 
